@@ -56,11 +56,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bubboSort.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/base/algorithm/bubboSort.java">
+      <file leaf-file-name="BubbleSort.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/base/algorithm/BubbleSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.17825311">
-              <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+            <state vertical-scroll-proportion="0.6791444">
+              <caret line="38" column="53" selection-start-line="38" selection-start-column="53" selection-end-line="38" selection-end-column="53" />
               <folding />
             </state>
           </provider>
@@ -84,6 +84,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/com/base/algorithm/StringReverse.java" />
+        <option value="$PROJECT_DIR$/src/com/base/algorithm/bubboSort.java" />
+        <option value="$PROJECT_DIR$/src/com/base/algorithm/BubboSort.java" />
+        <option value="$PROJECT_DIR$/src/com/base/algorithm/BubbleSort.java" />
       </list>
     </option>
   </component>
@@ -173,7 +176,7 @@
     <property name="dynamic.classpath" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.StringReverse">
+  <component name="RunManager" selected="Application.BubbleSort">
     <configuration default="false" name="Main" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="com.base.algorithm.Main" />
@@ -199,6 +202,26 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="com.base.algorithm.StringReverse" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="dong-algorithm" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.base.algorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.base.algorithm.BubbleSort" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -433,13 +456,15 @@
       <envs />
       <method />
     </configuration>
-    <list size="2">
+    <list size="3">
       <item index="0" class="java.lang.String" itemvalue="Application.Main" />
       <item index="1" class="java.lang.String" itemvalue="Application.StringReverse" />
+      <item index="2" class="java.lang.String" itemvalue="Application.BubbleSort" />
     </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Application.StringReverse" />
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Application.BubbleSort" />
+        <item index="1" class="java.lang.String" itemvalue="Application.StringReverse" />
       </list>
     </recent_temporary>
   </component>
@@ -451,15 +476,15 @@
       <option name="number" value="Default" />
       <updated>1466997408641</updated>
       <workItem from="1466997411479" duration="1996000" />
-      <workItem from="1466999945451" duration="825000" />
+      <workItem from="1466999945451" duration="5537000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2821000" />
+    <option name="totallyTimeSpent" value="7533000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1" y="1" width="1918" height="1038" extended-state="0" />
+    <frame x="1" y="1" width="1918" height="1038" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -546,10 +571,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/base/algorithm/bubboSort.java">
+    <entry file="file://$PROJECT_DIR$/src/com/base/algorithm/BubbleSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.17825311">
-          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+        <state vertical-scroll-proportion="0.6791444">
+          <caret line="38" column="53" selection-start-line="38" selection-start-column="53" selection-end-line="38" selection-end-column="53" />
           <folding />
         </state>
       </provider>
